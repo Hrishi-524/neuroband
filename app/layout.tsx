@@ -15,6 +15,9 @@ const fontMono = Geist_Mono({
 export const metadata = {
     title: "NeuroBand · Classroom Focus Analytics",
     description: "Real-time neuroscience-based concentration tracking dashboard",
+  icons: {
+    icon: "/favicon.svg",
+  }
 }
 
 export default function RootLayout({
